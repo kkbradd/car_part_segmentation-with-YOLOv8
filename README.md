@@ -4,8 +4,6 @@ This project focuses on car part segmentation using YOLOv8, allowing the identif
 
 ## Table of Contents
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
 - [Customization](#customization)
