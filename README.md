@@ -16,7 +16,7 @@ This project focuses on car part segmentation using YOLOv8, allowing the identif
 
 ## Dataset 
 The dataset was obtained from Roboflow, and it was partitioned into training, testing, and validation sets for model development and evaluation.
-https://universe.roboflow.com/segmentation-9q8ob/car-parts-llqro
+(https://universe.roboflow.com/segmentation-9q8ob/car-parts-llqro)
 
 ## Result
 
